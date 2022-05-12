@@ -7,7 +7,7 @@
     <br>
    De forma simplificada esse projeto visa exercitar os pilares da Programação Orientada a Objetox ( POO ) utilizando JAVA , simulando uma interação com um banco virtual, por meio do console. Os principais aspectos do projeto eram : abstração, encapsulamento, herança e polimorfismo.
     <br>
-###*Abstração
+###Abstração
     O conceito de abstração é muito útil para a tradução de entidades, ações ou processos do mundo real ou ideal para o mundo computacional e lógico. Entendendo a **complexidade** e as **características** do objeto de trabalho colabora para menor redundância e construção de projetos orientados a objeto, baseando seu comportamento em suas **ações** e como elas se relacionam com suas **características**.
     A abstração também é utilizada para esconder detalhes complexos, de implementação por exemplo. Criando um código mais fácil de ser utilizado e atualizado, pois não é exigido dos desenvolvedores conhecimento total da estrutura e comportamento do sistema.
     <br>
