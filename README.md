@@ -30,7 +30,7 @@
 [[ ...descrição aqui ... ]]
 
 ### Singleton
-####    [[ ...descrição aqui ... ]]
+####    Singleton é um termo matemático, que significa conjunto único. Em suma é um design pattern que visa limitar a quantidade de instâncias de um certo objeto á 1, fazendo assim com que mesmo que esse objeto seja preciso em outros, ao invés de uma nova instância ser criada, utiliza-se apenas uma referência, por exemplo. Garantindo que objetos vitais, e exclusivos, existam de maneira singular e comuniquem-se com demais objetos, caso necessário
 
 ### Strategy
 ####    [[ ...descrição aqui ... ]]
