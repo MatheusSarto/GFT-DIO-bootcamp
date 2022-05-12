@@ -19,7 +19,7 @@
 
 ### *Polimorfismo 🦋
 ####    Polimorfismo consiste na abstração ideal de tipos, métodos e classes. A partir do polimofrismo podemos criar classes genéricas, métodos com mesma assinatura, porém diferentes parametros, que exercem implementações, não necessáriamente, diferentes e podem ou não ter resultados diferentes. Podendo criar em superclasses, por exemplo, métodos que posteriormente venham a ser específicados em subclasses 
-> O polimorfismo é um assunto complexo e de grande extenção
+> O polimorfismo é um assunto complexo e de grande extenção,
 > de forma superficial podemos definilo assim, porém eu
 > recomendaria formente uma leitura sobre o assunto!
 
