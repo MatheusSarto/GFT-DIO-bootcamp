@@ -24,3 +24,17 @@
 > recomendaria formente uma leitura sobre o assunto!
 
 ****
+
+## Explorando Padrões de Projetos na Prática com Java
+
+[[ ...descrição aqui ... ]]
+
+### Singleton
+####    [[ ...descrição aqui ... ]]
+
+### Strategy
+####    [[ ...descrição aqui ... ]]
+
+### Facade
+####    [[ ...descrição aqui ... ]]
+
