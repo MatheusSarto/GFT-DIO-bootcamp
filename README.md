@@ -37,4 +37,11 @@
 
 ### Facade
 ####    Quando consumimos uma API web, por exemplo, não sabemos toda a complexidade por trás, apenas como acessa-la e seu resultado, que satisfaz idealmente nossa requisição. O design pattern facade é muito similar ao exemplo de funcionamento de uma API, porém existe para abstrair diferentes camadas de um sistema, simplificando classes e a comunicação entre elas, por meio de classes intermediárias, por exemplo, criando assim um nível de abstração maior. Da mesma forma que APIs abstraem sua complexidade, interfaces abstraem sua funcionalidade, designs facade abstraem a comunicação entre diferentes setores de um sistema.
+> Padrões de design são um assunto muito mais extenso e discutivel,
+> espero ter sido capaz de explicar de forma simples e coerente o conceito básico de cada um,
+> caso se interesse, recomendo uma leitura sobre o assunto!
 
+###### Matheus Maues Sarto - 13/05/2022
+    ****
+    ****
+    ****
