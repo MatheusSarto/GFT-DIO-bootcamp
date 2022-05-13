@@ -1,6 +1,8 @@
 # GFT DIO bootcamp
 ### Este repositório contem todos os projetos criados no decorrer do bootcamp GFT.
-
+> Para não criar repositórios diferentes deixei ambos os projetos em pacotes diferentes, 
+> dentro desse repositório. Para escolher o projeto de execução basta trocar a função principal.
+> Explicarie como fazer isso ainda nesse arquivo README.
  ****
     
 ## •Criando um Banco Digital com Java e Orientação a Objetos 🏦
