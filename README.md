@@ -30,7 +30,7 @@
 [[ ...descrição aqui ... ]]
 
 ### Singleton
-####    Singleton é um termo matemático, que significa conjunto único. Em suma é um design pattern que visa limitar a quantidade de instâncias de um certo objeto á 1, fazendo assim com que mesmo que esse objeto seja preciso em outros, ao invés de uma nova instância ser criada, utiliza-se apenas uma referência, por exemplo. Garantindo que objetos vitais, e exclusivos, existam de maneira singular e comuniquem-se com demais objetos, caso necessário
+####    Singleton é um termo matemático, que significa conjunto único. Em suma é um design pattern que visa limitar a quantidade de instâncias de um certo objeto á 1, fazendo assim com que mesmo que esse objeto seja requerido em outros, ao invés de uma nova instância ser criada, utiliza-se apenas uma referência, por exemplo. Garantindo que objetos vitais, e exclusivos, existam de maneira singular e comuniquem-se com demais objetos, caso necessário
 
 ### Strategy
 ####    O encapsulamento de métodos em um línguagem orientada a objetos se da por classes e interfaces, mas muitas pode-se desejar criar comportamentos, algorítimos específicos para resolção de certos problemas, de formas diferentes. Utilizar uma interface é de fato muito atraente nesses casos, porém, quando se precisa de maiores especificações e modularização, ou reutilização da interface em grande escala, em um certo padrão, as coisas podem ficar repetitivas e confusas. O design pattern Strategy funciona encapsulando comportamentos, métodos, em classes, e criando instâncias dessas classes no objeto de uso, que agora, ao invés de ter uma interface, tem diversos padrões comportamentais instânciados e pode trocar de acordo com necessário entre cada um. Criando um código mais sustentável e reutilizável.
