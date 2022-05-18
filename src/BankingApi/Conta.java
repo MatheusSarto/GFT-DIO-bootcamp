@@ -1,3 +1,5 @@
+package BankingApi;
+
 public class Conta implements IConta{
     private static final int count = 1;
     private static final int agenciaPadrao = 1;

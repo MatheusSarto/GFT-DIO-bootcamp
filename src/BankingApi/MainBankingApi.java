@@ -1,6 +1,8 @@
+package BankingApi;
+
 import java.util.Scanner;
 
-public class Main {
+public class MainBankingApi {
     public static void main(String[] args) {
         Conta conta;
         Conta conta2 = new ContaCorrente("EX", "EX", 18, 'm', "11111111111");
