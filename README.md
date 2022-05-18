@@ -27,9 +27,8 @@
 
 ****
 
-## •Explorando Padrões de Projetos na Prática com Java
-
-[[ ...descrição aqui ... ]]
+## •Explorando Padrões de Projetos na Prática com Java 🐍
+   Para entender e implementar os padrões de projeto desenvolvi um pequeno e simples "Jogo da cobrinha" em JAVA. Implementando conceitos como singleton, para garantir uma instância unica do jogo, pois outras instancias e objetos relacionados ao funcionamento do jogo poderiam causar problemas no funcionamento desejado. Aplicando também conceitos como Facade para abstrair o funcionamento do sistema pro trás de métodos e classes. O uso do padrão Strategy não foi necessário para o projeto, visto que apenas um comportamento e padrão eram esperados do sistema.
 
 ### •Singleton 👤
 ####    Singleton é um termo matemático, que significa conjunto único. Em suma é um design pattern que visa limitar a quantidade de instâncias de um certo objeto á 1, fazendo assim com que mesmo que esse objeto seja requerido em outros, ao invés de uma nova instância ser criada, utiliza-se apenas uma referência, por exemplo. Garantindo que objetos vitais, e exclusivos, existam de maneira singular e comuniquem-se com demais objetos, caso necessário
@@ -46,4 +45,16 @@
  ****
  ****
 
+## Mundando a função principal do programa
+#### Como mencionei antes, esse repositório contem dentro de um mesmo projeto, dois programas complemtamente diferentes, em funcionabilidade e propósito. Portanto aqui irei mencionar como trocar entre os programas, supondo que você irá tentar roda-los na IDE InteliJ.
+
+1> Selecione a opção "Run", localizada na barra superior da IDE;
+2> Clique na opção "Edit Configurations";
+3> Agora no primeiro campo dentro de "Build and Run", ao lado da sua versão do JAVA espefique o projeto de acesso desejado, sendo :<br> 
+> BankingApi.MainBankingApi - Para a aplicação bancária
+> SnakeGame.Game - Para o "jogo da cobrinha"
+
+ ****
+ ****
+ 
 ###### Matheus Maues Sarto - 13/05/2022
