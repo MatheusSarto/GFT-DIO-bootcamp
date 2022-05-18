@@ -51,7 +51,7 @@
 1> Selecione a opção "Run", localizada na barra superior da IDE;
 2> Clique na opção "Edit Configurations";
 3> Agora no primeiro campo dentro de "Build and Run", ao lado da sua versão do JAVA espefique o projeto de acesso desejado, sendo :<br> 
- > BankingApi.MainBankingApi - Para a aplicação bancária
+ > BankingApi.MainBankingApi - Para a aplicação bancária //
  > SnakeGame.Game - Para o "jogo da cobrinha"
 
 
